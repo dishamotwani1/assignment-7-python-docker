@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\ual-laptop\Desktop\Cloud Computing\python-docker\python-docker-env
+set VIRTUAL_ENV=C:\Users\aasth\OneDrive\MIS547\assignment-7-mausam20\python-docker\python-docker-env
 
 if not defined PROMPT set PROMPT=$P$G
 
